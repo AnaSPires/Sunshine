@@ -1,0 +1,68 @@
+<resources  xmlns:item="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Sunshine</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="weather_forecast_list">Previsão do tempo</string>
+
+    <string name="today_label">hoje</string>
+    <string name="tomorrow_label">amanhã</string>
+    <string name="language">pt</string>
+    <string name="country">BR</string>
+
+
+    <string name="format_temperature_celsius">
+        <item:g id="temp">%1.0f</item:g>\u00B0C
+    </string>
+
+    <string name="format_temperature_fahrenheit">
+        <item:g id="temp">%1.0f</item:g>ºF
+    </string>
+
+    <string name="humidity_label">Humidade: </string>
+    <string name="rain_label">Chuva: </string>
+    <string name="wind_label">Vento: </string>
+
+    <string name="format_wind_mph">
+        <item:g id="speed">%1$1.0f</item:g> km/h
+    </string>
+
+    <string name="format_rain">
+        <item:g id="rain">%d</item:g> %%
+    </string>
+
+    <string name="format_humidity">
+        <item:g id="humidity">%1.0f</item:g> %%
+    </string>
+
+    <string name="pref_location_label">Localização</string>
+
+    <string name="pref_location_key" translatable="false">location</string>
+
+    <string name="pref_location_default" translatable="false">Brasil</string>
+
+    <string name="pref_unit_temp_key" translatable="false">temp_unit</string>
+
+
+    <string name="pref_unit_temp_celsius" translatable="false">Celsius</string>
+
+    <string name="pref_unit_temp_fahrenheit" translatable="false">Fahrenheit</string>
+
+    <string name="pref_unit_celsius" translatable="false">celsius</string>
+
+    <string name="pref_unit_fahrenheit" translatable="false">fahrenheit</string>
+
+    <string name="pref_unit_temp_default" translatable="false">@string/pref_unit_temp_celsius</string>
+
+    <string name="pref_units_label">Unidade de temperatura</string>
+
+    <string name="pref_units_key" translatable="false">units</string>
+
+    <string name="pref_enable_notifications_key" translatable="false">enable_notifications</string>
+    <string name="pref_enable_notifications_label">Weather Notifications</string>
+
+    <string name="pref_enable_notifications_true">Enabled</string>
+    <string name="pref_enable_notifications_false">Not Enabled</string>
+
+    <string name="pref_last_notification">last_notification</string>
+    <string name="forecast_item_separator">/</string>
+</resources>
