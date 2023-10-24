@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="extra_details_padding_vertical">16dp</dimen>
+    <dimen name="extra_details_padding_horizontal">32dp</dimen>
+
+    <dimen name="forecast_primary_padding_top">60dp</dimen>
+    <dimen name="forecast_primary_padding_bottom">16dp</dimen>
+    <dimen name="forecast_primary_location_text_size">20sp</dimen>
+    <dimen name="forecast_primary_date_text_size">20sp</dimen>
+    <dimen name="forecast_primary_date_margin_bottom">16dp</dimen>
+    <dimen name="forecast_primary_icon_size">96dp</dimen>
+    <dimen name="forecast_primary_description_text_size">20sp</dimen>
+    <dimen name="forecast_primary_description_padding_horizontal">20dp</dimen>
+    <dimen name="forecast_primary_description_margin_top">8dp</dimen>
+    <dimen name="forecast_primary_high_temperature_text_size">72sp</dimen>
+    <dimen name="forecast_primary_low_temperature_text_size">36sp</dimen>
+
+    <dimen name="forecast_item_padding_vertical">12dp</dimen>
+    <dimen name="forecast_item_padding_horizontal">16dp</dimen>
+    <dimen name="forecast_item_icon_size">40dp</dimen>
+    <dimen name="forecast_item_date_margin_start">16dp</dimen>
+    <dimen name="forecast_item_high_temperature_text_size">28sp</dimen>
+    <dimen name="forecast_item_separator_text_size">28sp</dimen>
+    <dimen name="forecast_item_low_temperature_text_size">20sp</dimen>
+    <dimen name="forecast_item_high_temperature_margin_end">4dp</dimen>
+
+</resources>
