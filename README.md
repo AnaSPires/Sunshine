@@ -1,5 +1,6 @@
 # Sunshine
 Weather Forecast App
+
 O projeto é um app para conferir a previsão para os próximos 14 dias e detalhes de cada horário do dia
 Ele possibilita ajustar a localização da previsão e a unidade de temperatura de acordo com o gosto de cada um.
 
